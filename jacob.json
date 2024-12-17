@@ -1,25 +1,4 @@
 {
   "formatCommand": "npm run lint:fix",
-  "env": {
-    "OPENAI_API_KEY": "open-ai-key",
-    "POSTHOG_API_KEY": "posthog-key",
-    "NEXTAUTH_SECRET": "nextauth-secret",
-    "NEXTAUTH_URL": "http://localhost:3000",
-    "GITHUB_CLIENT_ID": "github-client-id",
-    "GITHUB_CLIENT_SECRET": "github-client-secret",
-    "DATABASE_URL": "file:./db.sqlite",
-    "DATABASE_TEST_URL": "file:./db.sqlite",
-    "GITHUB_APP_ID": "123456",
-    "GITHUB_PRIVATE_KEY": "github-private-key",
-    "GITHUB_WEBHOOK_SECRET": "github-webhook-secret",
-    "PUBSUB_REDIS_URL": "redis://localhost:6379/0",
-    "PUBSUB_REDIS_TEST_URL": "redis://localhost:6379/1",
-    "LINEAR_CLIENT_ID": "linear-client-id",
-    "LINEAR_CLIENT_SECRET": "linear-client-secret",
-    "LINEAR_WEBHOOK_SECRET": "linear-webhook-secret",
-    "NEXT_PUBLIC_LINEAR_CLIENT_ID": "linear-client-id",
-    "NEXT_PUBLIC_JIRA_CLIENT_ID": "jira-client-id",
-    "JIRA_CLIENT_ID": "jira-client-id",
-    "JIRA_CLIENT_SECRET": "jira-client-secret"
-  }
+  "env": {}
 }
